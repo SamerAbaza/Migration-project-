@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=migrprojstoragaccount;AccountKey=avbniVDz/x0UVfpT3ZTuSQOYyw/K6W7CDni23aZKMsz8ZNcmUvqcLzcsSdirLzQ61jYhcd2gHnMJ+AStV8u0KQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "sbmigrationnamespace_SERVICEBUS": "Endpoint=sb://sb-migration-namespace.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=4RhpfZhBZSRaTH4XTjkL7LxKNHIjOfeEPYpd1miPIE0="
+  }
+}
